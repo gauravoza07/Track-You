@@ -1,0 +1,11 @@
+<div class="row gx-4 gy-3 gx-xl-5 gy-xl-4 align-items-center">
+  <div class="col-md-8">
+    [email* email-address class:form-control placeholder "Email Address*"]
+  </div>
+  <div class="col-md-4">
+    [submit class:btn class:btn-outline-success class:rounded-0 w-100 "Subscribe to Newsletter"]
+  </div>
+  <div class="col-12 mt-3">
+    [recaptcha]
+  </div>
+</div> 

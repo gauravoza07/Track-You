@@ -1,0 +1,12 @@
+From: [first-name] [last-name] <[email-address]>
+Subject: New Newsletter Subscription
+
+A new user has subscribed to the newsletter:
+
+Name: [first-name] [last-name]
+Email: [email-address]
+
+Newsletter Preferences:
+[newsletter-preferences]
+
+This email was sent from the newsletter subscription form on [your-site-name]. 

@@ -1,0 +1,41 @@
+.uat-filters {
+    margin: 20px 0;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.uat-filters select {
+    min-width: 200px;
+    margin-right: 10px;
+}
+
+.wp-list-table .column-details {
+    width: 40%;
+}
+
+.wp-list-table .column-ip_address {
+    width: 15%;
+}
+
+.wp-list-table .column-activity_type {
+    width: 15%;
+}
+
+.wp-list-table .column-date {
+    width: 15%;
+}
+
+.wp-list-table .column-user {
+    width: 15%;
+}
+
+.tablenav-pages {
+    margin: 10px 0;
+}
+
+.tablenav-pages a,
+.tablenav-pages span {
+    margin: 0 5px;
+} 

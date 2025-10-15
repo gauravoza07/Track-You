@@ -1,0 +1,10 @@
+= 1.0.0 (2024-03-19) =
+* Initial release
+* Added media upload tracking
+* Added media edit tracking
+* Added media delete tracking
+* Added ACF field change tracking
+* Added IP address logging
+* Added admin interface for viewing logs
+* Added filtering capabilities
+* Added pagination support 

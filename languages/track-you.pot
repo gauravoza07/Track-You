@@ -1,0 +1,119 @@
+# Copyright (C) 2024 Gaurav Oza
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Track You - User Activity Logger 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/track-you-user-activity-logger\n"
+"POT-Creation-Date: 2024-03-19T12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-user-activity-tracker-admin.php:35
+msgid "Track You"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:36
+msgid "Activity Tracker"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:131
+msgid "All Activities"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:132
+msgid "Media Uploads"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:133
+msgid "Media Edits"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:134
+msgid "Media Deletions"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:135
+msgid "ACF Updates"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:149
+msgid "Date"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:150
+msgid "User"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:151
+msgid "Activity Type"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:152
+msgid "Details"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:153
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:163
+msgid "Unknown User"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:181
+msgid "&laquo;"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:182
+msgid "&raquo;"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:203
+msgid "Media Upload"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:204
+msgid "Media Edit"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:205
+msgid "Media Delete"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:206
+msgid "ACF Field Update"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:226
+msgid "Uploaded file: %1$s (%2$s)"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:234
+msgid "Edited file: %s"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:242
+msgid "Deleted file: %s"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:249
+msgid "Updated field \"%1$s\" in post #%2$d"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:257
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:266
+msgid "Featured image set (ID: %s)"
+msgstr ""
+
+#: includes/class-user-activity-tracker-admin.php:270
+msgid "Featured image removed"
+msgstr ""
+
+
